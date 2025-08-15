@@ -7,7 +7,7 @@ I'm a tech enthusiast and dropshipping entrepreneur passionate about building ap
 - 🌱 Learning more about Android development, Firebase, and automation
 - 💡 Interested in e-commerce, logistics, and scalable systems
 - 🤝 Open to collaborating on mobile apps, backend systems, and tech-driven business ideas
-- 📫 Reach me via email or drop a message on GitHub
+- 📫 Reach me via email,linkedin or drop a message on GitHub
 
 Let’s build the future—one line of code at a time ⚡
 
