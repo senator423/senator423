@@ -9,7 +9,7 @@ I'm a tech enthusiast and dropshipping entrepreneur passionate about building ap
 - 🤝 Open to collaborating on mobile apps, backend systems, and tech-driven business ideas
 - 📫 Reach me via email,linkedin or drop a message on GitHub
 
-Let’s build the future—one line of code at a time ⚡
+Let’s build the future one line of code at a time ⚡
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:oumasenator@gmail.com) 
